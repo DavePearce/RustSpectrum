@@ -1,11 +1,11 @@
 // Doesn't do much yet
 
-mod memory;
+mod zxspectrum;
 
-use memory::Memory;
+use zxspectrum::memory::*;
 
 fn main() {
     print!("Welcome to Rust Spectrum...");
 
-    let ram = memory::create();
+    let ram = zxspectrum::memory::create();
 }
