@@ -1,0 +1,7 @@
+[package]
+name = "RustSpectrum"
+version = "0.1.0"
+authors = ["DavePearce <david.pearce@ecs.vuw.ac.nz>"]
+
+[dependencies]
+
