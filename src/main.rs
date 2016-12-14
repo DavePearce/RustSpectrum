@@ -1,5 +1,6 @@
 // Doesn't do much yet
 
+mod z80;
 mod zxspectrum;
 
 use zxspectrum::memory::*;

@@ -1,5 +1,5 @@
 [package]
-name = "RustSpectrum"
+name = "rust_spectrum"
 version = "0.1.0"
 authors = ["DavePearce <david.pearce@ecs.vuw.ac.nz>"]
 
